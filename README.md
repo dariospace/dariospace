@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Stranger 👋
 
 <!--
 **dariospace/dariospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariospace&show_icons=true&theme=radical)
 
 [![Summary](https://github-readme-stats.vercel.app/api/top-langs/?username=dariospace&layout=compact)](https://github.com/dariospace/dariospace)
