@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariospace&show_icons=true&theme=radical)
+![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariospace&show_icons=true)
 
 [![Summary](https://github-readme-stats.vercel.app/api/top-langs/?username=dariospace&layout=compact)](https://github.com/dariospace/dariospace)
