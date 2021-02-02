@@ -1,4 +1,4 @@
-### Hello Stranger 👋
+### Hello Person 👋
 
 <!--
 **dariospace/dariospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am Dario.
+I mostly do QA Automation and Software Testing *stuff*.
+
+I am learning full stack development for fun. Open for work and side projects.
+
+I own a recycling company: [Compost Compost](https://grupoginebra.com)
+<br>
+I teach meditation for stressed startups at: [Mediaton](https://github.com/meditaon)
+
+### All my works are unlicensed
 
 
 ![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariospace&show_icons=true)
