@@ -22,7 +22,7 @@ I am learning full stack development for fun. Open for work and side projects.
 
 I own a recycling company: [Compost Compost](https://grupoginebra.com)
 <br>
-I teach meditation for stressed startups at: [Mediaton](https://github.com/meditaon)
+I teach meditation for stressed startups at: [Meditaon](https://github.com/meditaon)
 
 ### All my works are unlicensed
 
