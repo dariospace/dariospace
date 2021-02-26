@@ -18,9 +18,6 @@ I mostly do QA Automation and Software Testing *stuff*.
 <br>
 I am learning full stack development for fun. Open for work and side projects.
 
-
-### Evertyhing I do is [unlicensed](https://unlicense.org/)
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dariospace&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariospace&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
