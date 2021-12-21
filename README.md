@@ -1,8 +1,8 @@
 ![Spaceman](https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1800)
 
-### Hello Person 👋
+### Hello Persona 👋
 
-* * * 
+* * *
 
 <!--
 **dariospace/dariospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
