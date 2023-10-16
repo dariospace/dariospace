@@ -9,5 +9,3 @@ I own a recycling company: [Compost Compost](https://grupoginebra.com)
 I teach meditation for stressed startups at: [Meditaon](https://github.com/meditaon)
 <br>
 I mostly do QA and Software Testing *stuff*.
-<br>
-I am learning full stack development for fun. Open for work and side projects.
